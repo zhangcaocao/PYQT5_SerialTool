@@ -10,9 +10,9 @@ python Serial_tool.py
 
 ## Really Cool
 
-![Display Data](http://image.little-rocket.cn/show%20data.jpg)
+![Display Data](/show%20data.jpg)
 
-![Ploting](http://image.little-rocket.cn/Ploting.jpg)
+![Ploting](/Ploting.jpg)
 
 ## Note
 
